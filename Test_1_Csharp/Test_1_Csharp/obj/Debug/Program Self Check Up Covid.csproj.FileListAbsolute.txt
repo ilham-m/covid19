@@ -1,0 +1,12 @@
+D:\PRO-Gamer\Code\----\Test_1_Csharp\Test_1_Csharp\obj\Debug\Test_1_Csharp.Form1.resources
+D:\PRO-Gamer\Code\----\Test_1_Csharp\Test_1_Csharp\obj\Debug\Test_1_Csharp.Form2.resources
+D:\PRO-Gamer\Code\----\Test_1_Csharp\Test_1_Csharp\obj\Debug\Test_1_Csharp.Form3.resources
+D:\PRO-Gamer\Code\----\Test_1_Csharp\Test_1_Csharp\obj\Debug\Program Self Check Up Covid.csproj.GenerateResource.Cache
+D:\PRO-Gamer\Code\----\Test_1_Csharp\Test_1_Csharp\obj\Debug\Test_1_Csharp.exe
+D:\PRO-Gamer\Code\----\Test_1_Csharp\Test_1_Csharp\bin\Debug\dbcov.mdb
+D:\PRO-Gamer\Code\----\Test_1_Csharp\Test_1_Csharp\bin\Debug\Test_1_Csharp.exe.config
+D:\PRO-Gamer\Code\----\Test_1_Csharp\Test_1_Csharp\bin\Debug\Test_1_Csharp.exe
+D:\PRO-Gamer\Code\----\Test_1_Csharp\Test_1_Csharp\bin\Debug\Test_1_Csharp.pdb
+D:\PRO-Gamer\Code\----\Test_1_Csharp\Test_1_Csharp\obj\Debug\Test_1_Csharp.Properties.Resources.resources
+D:\PRO-Gamer\Code\----\Test_1_Csharp\Test_1_Csharp\obj\Debug\Test_1_Csharp.pdb
+D:\PRO-Gamer\Code\----\Test_1_Csharp\Test_1_Csharp\obj\Debug\Program Self Check Up Covid.csprojResolveAssemblyReference.cache
